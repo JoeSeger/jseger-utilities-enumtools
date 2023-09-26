@@ -1,0 +1,14 @@
+{
+    "name": "JSEnumToolsAssembly",
+    "rootNamespace": "JSeger.Utilities.Enumtools",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

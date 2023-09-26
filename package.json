@@ -1,0 +1,13 @@
+{
+  "name": "com.jsegerdev.directories",
+  "version": "0.0.1",
+  "displayName": "JSeger Directory Utilities",
+  "description": "Mono Utilities",
+  "unity": "2022.3",
+  "author": {
+    "name": "Joseph Seger",
+    "email": "joseph@josephseger.com",
+    "url": ""
+  }
+}
+
