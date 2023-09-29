@@ -2,7 +2,7 @@
   "name": "com.jsegerdev.enumtools",
   "version": "1.0.0",
   "displayName": "JSeger Directory Utilities",
-  "description": "Mono Utilities",
+  "description": "Directory Utilities",
   "unity": "2022.3",
   "author": {
     "name": "Joseph Seger",
